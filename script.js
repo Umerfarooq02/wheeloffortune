@@ -6,15 +6,15 @@ const closeButton = document.getElementById('closeButton');
 // Updated voucherCodes object
 const voucherCodes = {
     "EXOSCYBER": {
-        name: "SC-900: Microsoft Security, Compliance, and Identity Fundamentals",
+        name: "SC-900: Microsoft Security, Compliance, and Identity Fundamentals 50% off",
         code: "MSE25212784F"
     },
     "EXOSIT": {
-        name: "AZ-900: Microsoft Azure Fundamentals",
+        name: "AZ-900: Microsoft Azure Fundamentals 50% off",
         code: "MSE269760D98"
     },
     "EXOSTALENT": {
-        name: "MB-910: Microsoft Dynamics 365 Fundamentals (CRM)",
+        name: "MB-910: Microsoft Dynamics 365 Fundamentals (CRM) 50% off",
         code: "MSE25212784F"
     },
     // Add more names and codes as needed
