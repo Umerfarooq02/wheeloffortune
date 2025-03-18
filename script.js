@@ -7,7 +7,7 @@ const closeButton = document.getElementById('closeButton');
 const voucherCodes = {
     "EXOSCYBER": {
         name: `SC-900: Microsoft Security, Compliance, and Identity Fundamentals 50% off`,
-        code: "MSE25212784F"
+        code: "MSE2253D092C"
     },
     "EXOSIT": {
         name: `AZ-900: Microsoft Azure Fundamentals 50% off`,
